@@ -1,6 +1,6 @@
 /*
  * Vencord, a Discord client mod
- * Copyright (c) 2024 Cooper/coopeeo, Vendicated and contributors
+ * Copyright (c) 2025 August/coopeeo, Vendicated and contributors
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
@@ -13,7 +13,7 @@ export default definePlugin({
     description: "Enables all connections.",
     authors: [
         {
-            name: "Cooper",
+            name: "August",
             id: 594864203102158859n
         }
     ],
