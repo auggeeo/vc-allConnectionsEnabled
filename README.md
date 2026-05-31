@@ -12,5 +12,5 @@ Enables all connections (except for the Amazon Music you have to enable that via
 1. Clone Vencord and do the usual stuffs if you have not already. [Vencord Dev Docs](https://docs.vencord.dev)
     - https://docs.vencord.dev/installing/
     - https://docs.vencord.dev/installing/custom-plugins/
-2. Open a terminal and change your current directory to the userplugins folder (and create the `userplugins` folder if you have not done that already), then type `git clone https://github.com/coopeeo/vc-allConnectionsEnabled allConnectionsEnabled`
+2. Open a terminal and change your current directory to the userplugins folder (and create the `userplugins` folder if you have not done that already), then type `git clone https://github.com/auggeeo/vc-allConnectionsEnabled allConnectionsEnabled`
 3. Installed!
